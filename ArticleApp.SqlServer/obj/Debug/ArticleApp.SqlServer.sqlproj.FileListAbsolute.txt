@@ -18,3 +18,9 @@ E:\개발\ArticleApp\ArticleApp.SqlServer\obj\Debug\Model.xml
 E:\개발\ArticleApp\ArticleApp.SqlServer\obj\Debug\refactor.xml
 E:\개발\ArticleApp\ArticleApp.SqlServer\obj\Debug\postdeploy.sql
 E:\개발\ArticleApp\ArticleApp.SqlServer\obj\Debug\predeploy.sql
+C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp.SqlServer\bin\Debug\ArticleApp.SqlServer.dacpac
+C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp.SqlServer\bin\Debug\ArticleApp.SqlServer.dll
+C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp.SqlServer\bin\Debug\ArticleApp.SqlServer.pdb
+C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp.SqlServer\obj\Debug\ArticleApp.SqlServer.sqlproj.AssemblyReference.cache
+C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp.SqlServer\obj\Debug\ArticleApp.SqlServer.dll
+C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp.SqlServer\obj\Debug\ArticleApp.SqlServer.pdb

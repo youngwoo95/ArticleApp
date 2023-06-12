@@ -20,7 +20,12 @@
                 <div class="form-group">
                     <label for="id">Title :</label> @Model.Title
                 </div>
-               
+
+            <!-- 받아온 Id의 Model.Content 출력 -->
+            <div class="form-group">
+                @Model.Content
+            </div>
+
                 <!-- Navi 버튼선언 -->
                 <div class="form-group">
                     <a href="/Articles/Edit/@Model.Id" class="btn btn-primary">Edit</a>
