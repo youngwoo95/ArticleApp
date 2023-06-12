@@ -1,0 +1,15 @@
+N:\. Personal_folder\kyw\공부\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.csproj.AssemblyReference.cache
+N:\. Personal_folder\kyw\공부\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+N:\. Personal_folder\kyw\공부\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.AssemblyInfoInputs.cache
+N:\. Personal_folder\kyw\공부\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.AssemblyInfo.cs
+N:\. Personal_folder\kyw\공부\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.csproj.CoreCompileInputs.cache
+E:\개발\ArticleApp\ArticleApp.Models\bin\Debug\netstandard2.0\ArticleApp.Models.deps.json
+E:\개발\ArticleApp\ArticleApp.Models\bin\Debug\netstandard2.0\ArticleApp.Models.dll
+E:\개발\ArticleApp\ArticleApp.Models\bin\Debug\netstandard2.0\ArticleApp.Models.pdb
+E:\개발\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.csproj.AssemblyReference.cache
+E:\개발\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\개발\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.AssemblyInfoInputs.cache
+E:\개발\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.AssemblyInfo.cs
+E:\개발\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.csproj.CoreCompileInputs.cache
+E:\개발\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.dll
+E:\개발\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.pdb

@@ -1,0 +1,35 @@
+﻿System.ComponentModel.DataAnnotations 네임스페이스 특성
+
+[Required]
+	필수 입력 요소 : NULL 값을 허용하지 않아야 함을 강력하게 요청
+	SQL 제약 조건의 NOT NULL
+
+[StringLength]
+	문자열의 길이 제한
+
+[Display]
+	레이블(label) 드엥 표시할 텍스트
+
+[DataType]
+	암호(Password) 또는 이메일 형식을 지정
+	[DataType(DataType.Password)] 형태로 암호 텍스트박스를 지정
+	[DataType(DataType.EmailAddress)] : 이메일 형태 지정
+
+[MinLength]
+	문자열 최소 길이 지정
+
+[MaxLength]
+	문자열 최대 길이 지정
+	[Required, MaxLength(255)]
+
+[RegularExperession]
+	정규식을 사용하여 제약 조건 부여
+
+[Range]
+	범위 지정
+
+[Compare]
+	특정값과 비교, 암호 확인 용도로 사용
+
+[BineNever]
+	바인딩을 지정하지 않음/

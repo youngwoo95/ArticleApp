@@ -1,0 +1,20 @@
+N:\. Personal_folder\kyw\공부\ArticleApp\ArticleApp.SqlServer\bin\Debug\ArticleApp.SqlServer.dacpac
+N:\. Personal_folder\kyw\공부\ArticleApp\ArticleApp.SqlServer\bin\Debug\ArticleApp.SqlServer.dll
+N:\. Personal_folder\kyw\공부\ArticleApp\ArticleApp.SqlServer\bin\Debug\ArticleApp.SqlServer.pdb
+N:\. Personal_folder\kyw\공부\ArticleApp\ArticleApp.SqlServer\obj\Debug\ArticleApp.SqlServer.sqlproj.AssemblyReference.cache
+N:\. Personal_folder\kyw\공부\ArticleApp\ArticleApp.SqlServer\obj\Debug\Model.xml
+N:\. Personal_folder\kyw\공부\ArticleApp\ArticleApp.SqlServer\obj\Debug\refactor.xml
+N:\. Personal_folder\kyw\공부\ArticleApp\ArticleApp.SqlServer\obj\Debug\postdeploy.sql
+N:\. Personal_folder\kyw\공부\ArticleApp\ArticleApp.SqlServer\obj\Debug\predeploy.sql
+N:\. Personal_folder\kyw\공부\ArticleApp\ArticleApp.SqlServer\obj\Debug\ArticleApp.SqlServer.dll
+N:\. Personal_folder\kyw\공부\ArticleApp\ArticleApp.SqlServer\obj\Debug\ArticleApp.SqlServer.pdb
+E:\개발\ArticleApp\ArticleApp.SqlServer\bin\Debug\ArticleApp.SqlServer.dacpac
+E:\개발\ArticleApp\ArticleApp.SqlServer\bin\Debug\ArticleApp.SqlServer.dll
+E:\개발\ArticleApp\ArticleApp.SqlServer\bin\Debug\ArticleApp.SqlServer.pdb
+E:\개발\ArticleApp\ArticleApp.SqlServer\obj\Debug\ArticleApp.SqlServer.sqlproj.AssemblyReference.cache
+E:\개발\ArticleApp\ArticleApp.SqlServer\obj\Debug\ArticleApp.SqlServer.dll
+E:\개발\ArticleApp\ArticleApp.SqlServer\obj\Debug\ArticleApp.SqlServer.pdb
+E:\개발\ArticleApp\ArticleApp.SqlServer\obj\Debug\Model.xml
+E:\개발\ArticleApp\ArticleApp.SqlServer\obj\Debug\refactor.xml
+E:\개발\ArticleApp\ArticleApp.SqlServer\obj\Debug\postdeploy.sql
+E:\개발\ArticleApp\ArticleApp.SqlServer\obj\Debug\predeploy.sql
