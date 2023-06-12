@@ -2647,11 +2647,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\개발\\ArticleApp\\ArticleApp\\ArticleApp.csproj",
+      "projectUniqueName": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\ArticleApp.csproj",
       "projectName": "ArticleApp",
-      "projectPath": "E:\\개발\\ArticleApp\\ArticleApp\\ArticleApp.csproj",
+      "projectPath": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\ArticleApp.csproj",
       "packagesPath": "C:\\Users\\rlady\\.nuget\\packages\\",
-      "outputPath": "E:\\개발\\ArticleApp\\ArticleApp\\obj\\",
+      "outputPath": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2674,8 +2674,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\개발\\ArticleApp\\ArticleApp.Models\\ArticleApp.Models.csproj": {
-              "projectPath": "E:\\개발\\ArticleApp\\ArticleApp.Models\\ArticleApp.Models.csproj"
+            "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp.Models\\ArticleApp.Models.csproj": {
+              "projectPath": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp.Models\\ArticleApp.Models.csproj"
             }
           }
         }

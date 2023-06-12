@@ -6557,11 +6557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\개발\\ArticleApp\\ArticleApp.Models\\ArticleApp.Models.csproj",
+      "projectUniqueName": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp.Models\\ArticleApp.Models.csproj",
       "projectName": "ArticleApp.Models",
-      "projectPath": "E:\\개발\\ArticleApp\\ArticleApp.Models\\ArticleApp.Models.csproj",
+      "projectPath": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp.Models\\ArticleApp.Models.csproj",
       "packagesPath": "C:\\Users\\rlady\\.nuget\\packages\\",
-      "outputPath": "E:\\개발\\ArticleApp\\ArticleApp.Models\\obj\\",
+      "outputPath": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

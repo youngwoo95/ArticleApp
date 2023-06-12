@@ -9,101 +9,101 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ArticleApp
 build_property.RootNamespace = ArticleApp
-build_property.ProjectDir = E:\개발\ArticleApp\ArticleApp\
+build_property.ProjectDir = C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\개발\ArticleApp\ArticleApp
+build_property.MSBuildProjectDirectory = C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/개발/ArticleApp/ArticleApp/App.razor]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/Articles/Components/ArticleDeleteDialog.razor]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Articles/Components/ArticleDeleteDialog.razor]
 build_metadata.AdditionalFiles.TargetPath = QXJ0aWNsZXNcQ29tcG9uZW50c1xBcnRpY2xlRGVsZXRlRGlhbG9nLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/Articles/Components/ArticleEditorForm.razor]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Articles/Components/ArticleEditorForm.razor]
 build_metadata.AdditionalFiles.TargetPath = QXJ0aWNsZXNcQ29tcG9uZW50c1xBcnRpY2xlRWRpdG9yRm9ybS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/Articles/Components/ArticlePager.razor]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Articles/Components/ArticlePager.razor]
 build_metadata.AdditionalFiles.TargetPath = QXJ0aWNsZXNcQ29tcG9uZW50c1xBcnRpY2xlUGFnZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/Articles/Create.razor]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Articles/Create.razor]
 build_metadata.AdditionalFiles.TargetPath = QXJ0aWNsZXNcQ3JlYXRlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/Articles/Delete.razor]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Articles/Delete.razor]
 build_metadata.AdditionalFiles.TargetPath = QXJ0aWNsZXNcRGVsZXRlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/Articles/Details.razor]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Articles/Details.razor]
 build_metadata.AdditionalFiles.TargetPath = QXJ0aWNsZXNcRGV0YWlscy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/Articles/Edit.razor]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Articles/Edit.razor]
 build_metadata.AdditionalFiles.TargetPath = QXJ0aWNsZXNcRWRpdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/Articles/Index.razor]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Articles/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = QXJ0aWNsZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/Articles/Manage.razor]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Articles/Manage.razor]
 build_metadata.AdditionalFiles.TargetPath = QXJ0aWNsZXNcTWFuYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/Pages/Counter.razor]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/Pages/FetchData.razor]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/Pages/Index.razor]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/Shared/LoginDisplay.razor]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Shared/LoginDisplay.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/Shared/SurveyPrompt.razor]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/_Imports.razor]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/Shared/MainLayout.razor]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-riw8936aym
 
-[E:/개발/ArticleApp/ArticleApp/Shared/NavMenu.razor]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-002uw58l3c
 
-[E:/개발/ArticleApp/ArticleApp/Areas/Identity/Pages/Account/LogOut.cshtml]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Areas/Identity/Pages/Account/LogOut.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dPdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/Areas/Identity/Pages/Shared/_LoginPartial.cshtml]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Areas/Identity/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/Pages/Error.cshtml]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/Pages/_Host.cshtml]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/개발/ArticleApp/ArticleApp/Pages/_Layout.cshtml]
+[C:/Users/rlady/OneDrive/문서/ArticleApp/ArticleApp/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

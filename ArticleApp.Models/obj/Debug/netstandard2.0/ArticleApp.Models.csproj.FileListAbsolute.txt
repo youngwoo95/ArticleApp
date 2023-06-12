@@ -13,3 +13,13 @@ E:\개발\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Model
 E:\개발\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.csproj.CoreCompileInputs.cache
 E:\개발\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.dll
 E:\개발\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.pdb
+C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp.Models\bin\Debug\netstandard2.0\ArticleApp.Models.deps.json
+C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp.Models\bin\Debug\netstandard2.0\ArticleApp.Models.dll
+C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp.Models\bin\Debug\netstandard2.0\ArticleApp.Models.pdb
+C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.csproj.AssemblyReference.cache
+C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.AssemblyInfoInputs.cache
+C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.AssemblyInfo.cs
+C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.dll
+C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp.Models\obj\Debug\netstandard2.0\ArticleApp.Models.pdb

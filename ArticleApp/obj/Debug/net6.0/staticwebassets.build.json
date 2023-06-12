@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IZT5ty5B1aCWzW+5KAODZUH8k91j+xoH+BI/tdt12Wc=",
+  "Hash": "vLBdM+zZWkxP+w7nGToEHKKck8VhZzjgRXu7324KL+s=",
   "Source": "ArticleApp",
   "BasePath": "_content/ArticleApp",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "ArticleApp\\wwwroot",
       "Source": "ArticleApp",
-      "ContentRoot": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\",
       "BasePath": "_content/ArticleApp",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\rlady\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\개발\\ArticleApp\\ArticleApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ArticleApp.styles.css",
+      "Identity": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ArticleApp.styles.css",
       "SourceId": "ArticleApp",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\개발\\ArticleApp\\ArticleApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ArticleApp",
       "RelativePath": "ArticleApp.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\개발\\ArticleApp\\ArticleApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ArticleApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ArticleApp.styles.css"
     },
     {
-      "Identity": "E:\\개발\\ArticleApp\\ArticleApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ArticleApp.bundle.scp.css",
+      "Identity": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ArticleApp.bundle.scp.css",
       "SourceId": "ArticleApp",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\개발\\ArticleApp\\ArticleApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ArticleApp",
       "RelativePath": "ArticleApp.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\개발\\ArticleApp\\ArticleApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ArticleApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ArticleApp.bundle.scp.css"
     },
     {
-      "Identity": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "ArticleApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\",
       "BasePath": "_content/ArticleApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "ArticleApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\",
       "BasePath": "_content/ArticleApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "ArticleApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\",
       "BasePath": "_content/ArticleApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "ArticleApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\",
       "BasePath": "_content/ArticleApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "ArticleApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\",
       "BasePath": "_content/ArticleApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "ArticleApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\",
       "BasePath": "_content/ArticleApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "ArticleApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\",
       "BasePath": "_content/ArticleApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "ArticleApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\",
       "BasePath": "_content/ArticleApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "ArticleApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\",
       "BasePath": "_content/ArticleApp",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "ArticleApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\",
       "BasePath": "_content/ArticleApp",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "ArticleApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\",
       "BasePath": "_content/ArticleApp",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\css\\site.css",
       "SourceId": "ArticleApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\",
       "BasePath": "_content/ArticleApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\favicon.ico",
       "SourceId": "ArticleApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\개발\\ArticleApp\\ArticleApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\",
       "BasePath": "_content/ArticleApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
