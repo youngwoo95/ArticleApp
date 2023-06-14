@@ -33,7 +33,7 @@ namespace ArticleApp.Models
                 optionsBuilder.UseSqlServer(connectionString);
             }
             */
-            optionsBuilder.UseSqlServer(@"Server=192.168.45.94,1433;Database=ArticleApp;User Id=sa2;Password=wegg2650;");
+            optionsBuilder.UseSqlServer(@"Server=192.168.45.45,1433;Database=ArticleApp;User Id=sa2;Password=wegg2650;");
 
         }
 
