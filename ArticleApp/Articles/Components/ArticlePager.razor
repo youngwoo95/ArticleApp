@@ -49,7 +49,7 @@
             </li>
         }
 
-        
+        @*
         <li>
             <input type="button" value="1페이지" @onclick="@(()=> PagerButtonClicked(1))" />
         </li>
@@ -65,12 +65,17 @@
         <li>
             <input type="button" value="5페이지" @onclick="@(()=> PagerButtonClicked(5))" />
         </li>
+        *@
+
 
         @*페이지 수만큼 숫자 버튼 출력*@
         @{
             int i = 0; // 숫자 버튼, 다음 n개에서 사용
+            int start = Model.PageIndex / (int)Model.PagerButtonCount * Model.PagerButtonCount + 1; // [?]
+            int end = (Model.PageIndex / (int)Model.PagerButtonCount + 1) * Model.PagerButtonCount; // [?]
         }
-        @for (i = 1; i < Model.PageCount; i++)
+
+        @for (i = start; i < end; i++)
         {
             var currentNumber = i; // 현재 페이지 번호 임시 저장
 
@@ -81,10 +86,18 @@
             }
             
             // 현재 보고있는 페이지면 링크 제거
-            <li class="page-item">
-                <a class="page-link current btn disabled"><span style="font-size: 7pt;">@currentNumber</span></a>
-            </li>
-
+            if(i== Model.PageNumber)
+            {
+                <li class="page-item active">
+                    <a class="page-link current btn disabled"><span style="font-size: 7pt;">@i</span></a>
+                </li>
+            }
+            else
+            {
+                <li class="page-item">
+                    <a class="page-link current btn" @onclick="@(()=> PagerButtonClicked(currentNumber))"><span style="font-size: 7pt;">@i</span></a>
+                </li>
+            }
         }
 
         @* 다음 링크 : 마지막 페이지가 아니면 +1 씩 증가 *@
@@ -103,14 +116,13 @@
             </li>
         }
 
-        @* TODO: *@
         @* 다음 n개 링크*@
-        @if (Model.PageNumber > Model.PagerButtonCount)
+        @if (i <= Model.PageCount)
         {
-            int prev = (Model.PageNumber - 1) / (int)Model.PagerButtonCount * Model.PagerButtonCount; // 이전 n개 페이지 번호 계산
+            int next = Model.PageIndex / (int)Model.PagerButtonCount * Model.PagerButtonCount + Model.PagerButtonCount + 1; // 다음 n개 페이지 번호 계산
 
             <li class="page-item">
-                <a class="page-link next btn" @onclick="@(()=> PagerButtonClicked(prev))"><span style="font-size: 7pt;">+@(Model.PagerButtonCount)</span></a>
+                <a class="page-link next btn" @onclick="@(()=> PagerButtonClicked(next))"><span style="font-size: 7pt;">+@(Model.PagerButtonCount)</span></a>
             </li>
         }
         else
@@ -136,9 +148,6 @@
 
     </ul>
 </div>
-
-
-
 
 
 @code {
