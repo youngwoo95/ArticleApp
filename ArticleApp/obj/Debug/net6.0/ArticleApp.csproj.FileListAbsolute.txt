@@ -160,3 +160,4 @@ C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp\obj\Debug\net6.0\refint\Art
 C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp\obj\Debug\net6.0\ArticleApp.pdb
 C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp\obj\Debug\net6.0\ArticleApp.genruntimeconfig.cache
 C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp\obj\Debug\net6.0\ref\ArticleApp.dll
+C:\Users\rlady\OneDrive\문서\ArticleApp\ArticleApp\bin\Debug\net6.0\libman.json

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vLBdM+zZWkxP+w7nGToEHKKck8VhZzjgRXu7324KL+s=",
+  "Hash": "yZysFDTJtMsCnuf23S+QJAqD1+MYpXzAiVjgfVnBNqE=",
   "Source": "ArticleApp",
   "BasePath": "_content/ArticleApp",
   "Mode": "Default",
@@ -1290,6 +1290,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\lib\\dist\\js\\bootstrap.js",
+      "SourceId": "ArticleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\",
+      "BasePath": "_content/ArticleApp",
+      "RelativePath": "lib/dist/js/bootstrap.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\lib\\jquery.js",
+      "SourceId": "ArticleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rlady\\OneDrive\\문서\\ArticleApp\\ArticleApp\\wwwroot\\",
+      "BasePath": "_content/ArticleApp",
+      "RelativePath": "lib/jquery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery.js"
     }
   ]
 }
