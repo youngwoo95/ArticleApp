@@ -10,6 +10,7 @@ CREATE TABLE [dbo].[Articles]
 	[CreatedBy] Nvarchar(255) Null, -- 등록자(Creator)
 	[Created] DateTime Default(GetDate()), -- 생성일
 	[ModifiedBy] Nvarchar(255) Null, -- 수정자 (LastModifiedBy)
-	[Modified] DateTime null, -- 수정일 (LastModified)
+	[Modified] DateTime null, 
+    [IsPinned] BIT NULL DEFAULT 0, -- 수정일 (LastModified)
 )
 Go
