@@ -24,7 +24,7 @@
 
             <!-- 받아온 Id의 Model.Content 출력 -->
             <div class="form-group">
-                @Model.Content
+               @Model.Content
             </div>
 
             <!-- Navi 버튼선언 -->
@@ -43,9 +43,12 @@
 
     public Article Model { get; set; } = new Article();
 
+    private string lblContext = "";
+
     protected override async Task OnInitializedAsync()
     {
         Model = await ArticleRepository.GetArticleByIdAsync(Id);
+
     }
 
     /// <summary>

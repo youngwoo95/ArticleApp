@@ -23,7 +23,9 @@
 
             <!-- 받아온 Id의 Model.Content 출력 -->
             <div class="form-group">
-                @Model.Content
+                <!--@Model.Content-->
+                <!-- MarkupString 으로 캐스팅하면 <br/> 이 적용된다. -->
+                @((MarkupString)lblContext)
             </div>
 
                 <!-- Navi 버튼선언 -->
@@ -43,9 +45,14 @@
 
     public Article Model { get; set; } = new Article();
 
+    private string lblContext { get; set; } = "";
+
     protected override async Task OnInitializedAsync()
     {
         Model =  await ArticleRepository.GetArticleByIdAsync(Id);
+
+        //lblContext = Model.Content.Replace("\n", "<br />"); // 내용
+        lblContext = Dul.HtmlUtility.EncodeWithTabAndSpace(Model.Content); // \n, \t 등을 변환시켜준다.
     }
 
 }
